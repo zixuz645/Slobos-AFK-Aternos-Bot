@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Server Anti Cheat Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "funnysv.aternos.me",
+    "port": 61133
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Ado Bokkala",
+        "Kawada bn",
+        "Funnysv On Top"
       ]
     },
     "chat-log": true,
